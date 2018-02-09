@@ -1,0 +1,754 @@
+[
+    {
+        "created_at": "Mon Feb 05 16:44:25 +0000 2018",
+        "id": 960554716223635456,
+        "id_str": "960554716223635456",
+        "text": "RT @save4use: Anyone remember who the visiting prof was that taught history of the book @umsi in Winter 2006? He was really good, but I can\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "save4use",
+                    "name": "Christie P",
+                    "id": 22779978,
+                    "id_str": "22779978",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "umsi",
+                    "name": "SchoolofInformation",
+                    "id": 18033550,
+                    "id_str": "18033550",
+                    "indices": [
+                        88,
+                        93
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 18033550,
+            "id_str": "18033550",
+            "name": "SchoolofInformation",
+            "screen_name": "umsi",
+            "location": "Ann Arbor, MI",
+            "description": "The University of Michigan School of Information creates and shares knowledge so that people will use information -- with technology -- to build a better world.",
+            "url": "http://t.co/4pWAWmnRR4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/4pWAWmnRR4",
+                            "expanded_url": "http://si.umich.edu",
+                            "display_url": "si.umich.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7323,
+            "friends_count": 1553,
+            "listed_count": 407,
+            "created_at": "Wed Dec 10 22:56:22 +0000 2008",
+            "favourites_count": 4767,
+            "utc_offset": -18000,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 10697,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/940327729601417217/ayRfWgvn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/940327729601417217/ayRfWgvn_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18033550/1513026936",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Feb 05 16:35:57 +0000 2018",
+            "id": 960552588394426369,
+            "id_str": "960552588394426369",
+            "text": "Anyone remember who the visiting prof was that taught history of the book @umsi in Winter 2006? He was really good,\u2026 https://t.co/xjTvsEcVa2",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "umsi",
+                        "name": "SchoolofInformation",
+                        "id": 18033550,
+                        "id_str": "18033550",
+                        "indices": [
+                            74,
+                            79
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/xjTvsEcVa2",
+                        "expanded_url": "https://twitter.com/i/web/status/960552588394426369",
+                        "display_url": "twitter.com/i/web/status/9\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 22779978,
+                "id_str": "22779978",
+                "name": "Christie P",
+                "screen_name": "save4use",
+                "location": "Massachusetts, USA",
+                "description": "As an archivist, I toil along the crumbling rim of the existential void. But fear not, for I am educated, trained, experienced, & compassionate.   she/her/hers",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1715,
+                "friends_count": 839,
+                "listed_count": 138,
+                "created_at": "Wed Mar 04 14:37:45 +0000 2009",
+                "favourites_count": 2050,
+                "utc_offset": -21600,
+                "time_zone": "Central Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 5530,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "709397",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/7353850/chick006.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/7353850/chick006.jpg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/855058354053558272/_Z4qp2Kl_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/855058354053558272/_Z4qp2Kl_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/22779978/1403903912",
+                "profile_link_color": "0299AD",
+                "profile_sidebar_border_color": "86A4A6",
+                "profile_sidebar_fill_color": "A0C5C7",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Feb 01 17:36:38 +0000 2018",
+        "id": 959118305872236544,
+        "id_str": "959118305872236544",
+        "text": "RT @umichTECH: \u26a1\ufe0f Did you miss the Privacy@Michigan event Jan. 30? Check out the highlights and key messages from panelists in our coverage\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "umichTECH",
+                    "name": "U-M ITS \u2013 Ann Arbor",
+                    "id": 759726559,
+                    "id_str": "759726559",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 18033550,
+            "id_str": "18033550",
+            "name": "SchoolofInformation",
+            "screen_name": "umsi",
+            "location": "Ann Arbor, MI",
+            "description": "The University of Michigan School of Information creates and shares knowledge so that people will use information -- with technology -- to build a better world.",
+            "url": "http://t.co/4pWAWmnRR4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/4pWAWmnRR4",
+                            "expanded_url": "http://si.umich.edu",
+                            "display_url": "si.umich.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7323,
+            "friends_count": 1553,
+            "listed_count": 407,
+            "created_at": "Wed Dec 10 22:56:22 +0000 2008",
+            "favourites_count": 4767,
+            "utc_offset": -18000,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 10697,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/940327729601417217/ayRfWgvn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/940327729601417217/ayRfWgvn_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18033550/1513026936",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jan 31 21:06:33 +0000 2018",
+            "id": 958808744971898881,
+            "id_str": "958808744971898881",
+            "text": "\u26a1\ufe0f Did you miss the Privacy@Michigan event Jan. 30? Check out the highlights and key messages from panelists in our\u2026 https://t.co/uxUi3DqB9H",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/uxUi3DqB9H",
+                        "expanded_url": "https://twitter.com/i/web/status/958808744971898881",
+                        "display_url": "twitter.com/i/web/status/9\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 759726559,
+                "id_str": "759726559",
+                "name": "U-M ITS \u2013 Ann Arbor",
+                "screen_name": "umichTECH",
+                "location": "University of Michigan",
+                "description": "Technology resources & tips at the University of Michigan (@umich). Promo for #MichiganIT community. Visit https://t.co/oPJSgJUmIQ for campus computing support.",
+                "url": "http://t.co/wiKFM6TPGP",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/wiKFM6TPGP",
+                                "expanded_url": "http://its.umich.edu",
+                                "display_url": "its.umich.edu",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/oPJSgJUmIQ",
+                                "expanded_url": "http://its.umich.edu/help",
+                                "display_url": "its.umich.edu/help",
+                                "indices": [
+                                    107,
+                                    130
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 2156,
+                "friends_count": 1125,
+                "listed_count": 88,
+                "created_at": "Wed Aug 15 16:45:38 +0000 2012",
+                "favourites_count": 753,
+                "utc_offset": -18000,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 4263,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "00274C",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000018721315/6a71afaada2df2816cb7898b514b2be4.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000018721315/6a71afaada2df2816cb7898b514b2be4.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000104974885/e7c0eb4194422e3869efc98ca9ef187a_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000104974885/e7c0eb4194422e3869efc98ca9ef187a_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/759726559/1511962670",
+                "profile_link_color": "00274C",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "E3DDAA",
+                "profile_text_color": "CFC88C",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 4,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Feb 01 15:44:56 +0000 2018",
+        "id": 959090194896089088,
+        "id_str": "959090194896089088",
+        "text": "RT @CaitlinGeier: Good article about living with and designing for colorblindness from a @umsi alum! He made some excellent points about em\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CaitlinGeier",
+                    "name": "Caitlin Geier",
+                    "id": 542236657,
+                    "id_str": "542236657",
+                    "indices": [
+                        3,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "umsi",
+                    "name": "SchoolofInformation",
+                    "id": 18033550,
+                    "id_str": "18033550",
+                    "indices": [
+                        89,
+                        94
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 18033550,
+            "id_str": "18033550",
+            "name": "SchoolofInformation",
+            "screen_name": "umsi",
+            "location": "Ann Arbor, MI",
+            "description": "The University of Michigan School of Information creates and shares knowledge so that people will use information -- with technology -- to build a better world.",
+            "url": "http://t.co/4pWAWmnRR4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/4pWAWmnRR4",
+                            "expanded_url": "http://si.umich.edu",
+                            "display_url": "si.umich.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7323,
+            "friends_count": 1553,
+            "listed_count": 407,
+            "created_at": "Wed Dec 10 22:56:22 +0000 2008",
+            "favourites_count": 4767,
+            "utc_offset": -18000,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 10697,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/940327729601417217/ayRfWgvn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/940327729601417217/ayRfWgvn_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18033550/1513026936",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Feb 01 15:01:46 +0000 2018",
+            "id": 959079333586489344,
+            "id_str": "959079333586489344",
+            "text": "Good article about living with and designing for colorblindness from a @umsi alum! He made some excellent points ab\u2026 https://t.co/WN8De2cbSF",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "umsi",
+                        "name": "SchoolofInformation",
+                        "id": 18033550,
+                        "id_str": "18033550",
+                        "indices": [
+                            71,
+                            76
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/WN8De2cbSF",
+                        "expanded_url": "https://twitter.com/i/web/status/959079333586489344",
+                        "display_url": "twitter.com/i/web/status/9\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 542236657,
+                "id_str": "542236657",
+                "name": "Caitlin Geier",
+                "screen_name": "CaitlinGeier",
+                "location": "Ann Arbor, MI",
+                "description": "UX designer and a11y advocate",
+                "url": "http://t.co/TRSgBqIgq8",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/TRSgBqIgq8",
+                                "expanded_url": "http://www.caitlingeier.com",
+                                "display_url": "caitlingeier.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 88,
+                "friends_count": 112,
+                "listed_count": 16,
+                "created_at": "Sun Apr 01 04:30:00 +0000 2012",
+                "favourites_count": 128,
+                "utc_offset": -18000,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 299,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "352726",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2006475609/steam_avatar_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2006475609/steam_avatar_normal.jpg",
+                "profile_link_color": "4BA298",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 7,
+            "favorited": false,
+            "retweeted": true,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "en"
+    },
+    {
+        "created_at": "Tue Jan 30 22:05:05 +0000 2018",
+        "id": 958461090479960064,
+        "id_str": "958461090479960064",
+        "text": "Thanks to everyone who followed our live tweets today in support of #PrivacyAware! A special thank you to\u2026 https://t.co/JC06LV7Ku3",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "PrivacyAware",
+                    "indices": [
+                        68,
+                        81
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/JC06LV7Ku3",
+                    "expanded_url": "https://twitter.com/i/web/status/958461090479960064",
+                    "display_url": "twitter.com/i/web/status/9\u2026",
+                    "indices": [
+                        107,
+                        130
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 18033550,
+            "id_str": "18033550",
+            "name": "SchoolofInformation",
+            "screen_name": "umsi",
+            "location": "Ann Arbor, MI",
+            "description": "The University of Michigan School of Information creates and shares knowledge so that people will use information -- with technology -- to build a better world.",
+            "url": "http://t.co/4pWAWmnRR4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/4pWAWmnRR4",
+                            "expanded_url": "http://si.umich.edu",
+                            "display_url": "si.umich.edu",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7323,
+            "friends_count": 1553,
+            "listed_count": 407,
+            "created_at": "Wed Dec 10 22:56:22 +0000 2008",
+            "favourites_count": 4767,
+            "utc_offset": -18000,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 10697,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/940327729601417217/ayRfWgvn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/940327729601417217/ayRfWgvn_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/18033550/1513026936",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }
+]
