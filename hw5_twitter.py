@@ -121,7 +121,8 @@ for tu in fdist_clean_mostcommon:
     word = tu[0]
     freq = tu[1]
     print("{}({})".format(word, freq), end=" ")
-print(" ") #for formatting only
+print("") #for formatting only
+print("===") #for formatting only
 
 
 
